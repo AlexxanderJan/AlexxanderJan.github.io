@@ -20,12 +20,17 @@ maybe just upload a pdf.
 
 ## Welcome to the Official Alexander Jan Webpage
 ### There are probably many like it, but this is the best one 
-[here's my email] (mailto:alexxjann@gmail.com 
-)
+[mail me email](mailto:alexxjann@gmail.com)
 
-[hope this works] (www.google.com)
+[look at my linkedin](https://www.linkedin.com/in/alexander-jan/)
 
-[Check out this very cool game I made] (https://spiritofbadrng.itch.io/pinball-2v01b "Pinball")
+[git in my github](https://github.com/AlexxanderJan)
 
+[play my magnum opus](https://spiritofbadrng.itch.io/pinball-2v01b "Pinball")
+
+[recoil in disgust at this other game](https://spiritofbadrng.itch.io/futbol "futbol")
+<!-- this game doens't even work, can we upload a working copy -->
+
+![Here's the only photo of myself I could find on my phone](https://cdn.discordapp.com/attachments/336974492406644736/1042749865828036628/PXL_20221026_112058578.MP.jpg "Beep boop I am a robot")
 
 regular text size
