@@ -23,6 +23,6 @@ permalink: /art/
  
 #### a lovely 500 mL mug.
 #### a made a rock.
-#### the lord of my rings.
+#### the lord of the rings.
 <!-- put some photographs of pots here -->
 
