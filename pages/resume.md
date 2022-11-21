@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Contact Information
+title: Resume
 permalink: /resume/
+
+comment: this page would look nicer with an embed/download link
 ---
+
+
 
 
 ## Key Skills
