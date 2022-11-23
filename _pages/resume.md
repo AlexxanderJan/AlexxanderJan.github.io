@@ -56,7 +56,10 @@ Technical Writing – 2019-2022
 - Record of success in editing dynamic copy for “Flexible 3-dimensional surface-enhanced Raman scattering substrate prepared by photochemical decoration of silver nanoparticles on ZnO nanowire/filter paper” and other scientific papers.
 Published works - 2017
 - Ghostwrote McMaster Tier 2 Power Words for 9th Grade Volume 1 and 4 other similar vocabulary workbooks.
+
+
 ## Education
+
 Georgia Institute of Technology - Atlanta, GA 2012-2015
 
 
