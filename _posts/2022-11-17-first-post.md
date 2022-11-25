@@ -8,7 +8,7 @@ categories: post
 
 # Alexander Jan
 
-### --Toolbar goes here--
+
 <!-- comment -->
 
 <!-- links --> 
